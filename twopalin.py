@@ -1,5 +1,5 @@
-s,u=list(input().split())
-if s[::-1]==s and u==u[::-1]:
+s,u=input().split()
+if s[0]==s[1] and u[0]==u[1]:
   print("yes")
 else:
   print("no")
