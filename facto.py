@@ -1,4 +1,4 @@
-su=1
+sun=1
 for i in range(int(input())):
-    su*=i
-print(su)
+    sun*=i
+print(sun)
